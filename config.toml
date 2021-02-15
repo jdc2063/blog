@@ -64,10 +64,10 @@ copyright = "© {year}"
   identifier = "blog"
   name = "blog"
   title = "Blog"
-  url = "/blog"
+  url = "/blog/"
 
 [[menu.main]]
   identifier = "to do"
   name = "to do"
   title = "to do"
-  url = "/todo"
+  url = "/todo/"
