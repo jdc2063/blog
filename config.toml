@@ -61,13 +61,13 @@ copyright = "© {year}"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "post"
+  name = "post"
+  title = "Post"
+  url = "/post/"
 
 [[menu.main]]
-  identifier = "to do"
-  name = "to do"
-  title = "to do"
-  url = "/todo"
+  identifier = "til"
+  name = "TIL"
+  title = "TIL"
+  url = "/til/"
