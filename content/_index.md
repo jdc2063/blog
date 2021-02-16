@@ -1,5 +1,5 @@
 ---
-heading: "Hi, I'm Codex"
-subheading: "A minimal blog theme for hugo."
-handle: "hugo-theme-codex"
+heading: "Hi, I'm Jérémy Da Cruz"
+subheading: "A minimal blog with hugo."
+handle: "jdc"
 ---
