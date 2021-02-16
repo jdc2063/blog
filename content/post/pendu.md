@@ -1,11 +1,11 @@
 ---
 title: "Pendu"
 date: 2021-02-09T19:28:45+01:00
-slug: ""
-description: ""
+slug: "retour"
+description: "pojiojli"
 keywords: []
 draft: true
-tags: [blog]
+tags: ["blog", "game"]
 math: false
 toc: true
 ---
