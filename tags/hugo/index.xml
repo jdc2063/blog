@@ -9,15 +9,6 @@
     <copyright>© {year}</copyright>
     <lastBuildDate>Thu, 04 Jun 2020 09:19:29 -0400</lastBuildDate><atom:link href="https://www.eternelpose.eu/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>post</title>
-      <link>https://www.eternelpose.eu/blog/post/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://www.eternelpose.eu/blog/post/</guid>
-      <description>Ceci est un test </description>
-    </item>
-    
-    <item>
       <title>Welcome To Codex</title>
       <link>https://www.eternelpose.eu/blog/example-post/</link>
       <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
