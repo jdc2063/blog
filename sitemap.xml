@@ -4,14 +4,31 @@
   
   <url>
     <loc>https://eternelpose.eu/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eternelpose.eu/categories/</loc>
+    <loc>https://eternelpose.eu/blog/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternelpose.eu/tags/hugo/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://eternelpose.eu/tags/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternelpose.eu/blog/example-post/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternelpose.eu/categories/</loc>
   </url>
   
 </urlset>
