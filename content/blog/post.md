@@ -5,7 +5,7 @@ slug: "post"
 description: "This is an example post for hugo-theme-codex."
 keywords: ["gohugo", "hugo", "go", "blog"]
 draft: false
-tags: ["hugo"]
+tags: ["til"]
 math: false
 toc: true
 ---
