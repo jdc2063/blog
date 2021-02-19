@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://eternelpose.eu/"
+baseURL = "https://www.eternelpose.eu/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
